@@ -54,3 +54,10 @@ Keep this file honest and current. It is only useful if every claim in it is
 verifiable against the repository as it stands. Delete guidance that has gone
 stale rather than letting it accumulate, and remove the "empty repository"
 notice above as soon as it stops being true.
+
+## ユーザーの表記ルール（数式）
+
+ユーザー本人からの指示。数式を書くときは、ファイル・PDF・チャットのどれでも必ず守ること。
+
+- **分数**：`a/b` のように `/` を使って横に書かない。分子を上、分母を下にして縦に書く（LaTeX なら `\dfrac{a}{b}`）。
+- **累乗**：`x^2` や `x**2` のように横に並べない。指数を数字・文字の右上に小さく書く（x²，LaTeX なら `x^{2}` を組版して表示）。
